@@ -34,7 +34,7 @@ White base, pink base, yellow bridge (sansfont):
 1. Place respack folders in `$MINECRAFT_FOLDER/resourcepacks`
     - In Windows 10, this is under `%appdata%/.minecraft/resourcepacks`
     - Linux: `~/.minecraft/resourcepacks/`
-    - macOS: `~/Library/Application\ Support/Minecraft`
+    - macOS: `~/Library/Application\ Support/minecraft/resourcepacks`
 2. Start Minecraft and select a pack under `Options > Resource Packs`
     (in vanilla, most other clients should have an option for it as well)
 
